@@ -620,3 +620,8 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+a,
+a:visited {
+    color: #ff6600;
+}
